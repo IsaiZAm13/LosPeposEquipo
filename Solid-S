@@ -1,0 +1,3 @@
+S - Single Responsibility Principle (SRP):
+
+Principio de responsabilidad única: Cada clase debe tener una sola responsabilidad o razón para cambiar. Esto significa que una clase debe estar encargada de una única funcionalidad o tarea en el programa.
