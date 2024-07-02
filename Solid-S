@@ -1,3 +1,7 @@
 S - Single Responsibility Principle (SRP):
 
 Principio de responsabilidad única: Cada clase debe tener una sola responsabilidad o razón para cambiar. Esto significa que una clase debe estar encargada de una única funcionalidad o tarea en el programa.
+
+O - Open/Closed Principle (OCP):
+
+Principio de abierto/cerrado: Las entidades de software (clases, módulos, funciones, etc.) deben estar abiertas para extensión pero cerradas para modificación. Esto implica que debes poder añadir nuevas funcionalidades sin cambiar el código existente.
